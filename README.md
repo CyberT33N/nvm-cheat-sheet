@@ -79,6 +79,8 @@ _________________________________________________
 ## Set default version (https://stackoverflow.com/questions/47190861/how-can-the-default-node-version-be-set-using-nvm)
 ```bash
 nvm alias default v10.19.0
+
+nvm alias default v18
 ```
 
 
