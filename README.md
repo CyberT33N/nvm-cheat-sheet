@@ -8,6 +8,14 @@ NVM cheat sheet with the most needed stuff
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 ```
 
+## Zsh
+```
+# sudo gedit ~/.zshrc
+
+export NVM_DIR=~/.nvm
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+```
+
 
 
 
