@@ -4,17 +4,36 @@ NVM cheat sheet with the most needed stuff
 <br><br>
 
 # Install
+
+## Linux
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 ```
 
-## Zsh
+
+### Zsh
 ```
 # sudo gedit ~/.zshrc
 
 export NVM_DIR=~/.nvm
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
 ```
+
+
+
+<br><br>
+<br><br>
+
+
+## Windows
+- https://github.com/coreybutler/nvm-windows/releases
+
+
+
+
+
+
+
 
 
 
@@ -37,8 +56,8 @@ export NVM_DIR=~/.nvm
 
 
 <br><br>
-_________________________________________________
-_________________________________________________
+________
+________
 <br><br>
 
 ## Install specific Node version
